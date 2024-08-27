@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Item 1",
+    "value": 10,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 2",
+    "value": 20,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 3",
+    "value": 30,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 4",
+    "value": 40,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 5",
+    "value": 50,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 6",
+    "value": 10,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 7",
+    "value": 20,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 8",
+    "value": 30,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 9",
+    "value": 40,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 10",
+    "value": 50,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 11",
+    "value": 10,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 12",
+    "value": 20,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 13",
+    "value": 30,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 14",
+    "value": 40,
+    "imageUrl": "/images/item1.jpg"
+  },
+  {
+    "name": "Item 15",
+    "value": 50,
+    "imageUrl": "/images/item1.jpg"
+  }
+]
